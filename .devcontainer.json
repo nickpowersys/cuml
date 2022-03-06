@@ -1,6 +1,4 @@
 {
-	"name": "Existing Dockerfile",
-	"settings": {},
-	"extensions": [],
-    "forwardPorts": [3000]
-}
+	"image": "rapidsai/rapidsai-dev:22.02-cuda11.5-devel-ubuntu20.04-py3.8",
+	"forwardPorts": [3000]
+  }
