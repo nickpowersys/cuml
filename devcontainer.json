@@ -1,6 +1,7 @@
 {
 	"name": "Existing Dockerfile",
-	"settings": {},	
+	"settings": {},
+	"context": "..",
 	"extensions": [],
     "forwardPorts": [3000]
 }
